@@ -13,7 +13,13 @@
  *    -- container 
  *    -- computational 
  *    -- presentational
- *    -- page   
+ *    -- page
+ * - Ideology F.I.R.S.T. 
+ *    -- Focused
+ *    -- Independent 
+ *    -- Reusable
+ *    -- Small 
+ *    -- Testable   
  */
 
 /* === Functional === */
