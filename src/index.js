@@ -2,8 +2,14 @@ import React from "react";
 import reactDom from "react-dom";
 import "./main.css";
 
+import Nav from "./components/Nav/Nav.js";
+
 const App = () => {
-  return <h1>Hello World!</h1>
+  return <div id="app">
+      <Nav username="Dalton" />
+      <Nav username="Will" />
+      <Nav username="Tyler" />
+    </div>
 }
 
 reactDom.render(<App />, document.getElementById("root"));
