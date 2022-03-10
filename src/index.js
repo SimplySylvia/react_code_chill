@@ -7,8 +7,6 @@ import Nav from "./components/Nav/Nav.jsx";
 const App = () => {
   return <div id="app">
       <Nav username="Dalton" />
-      <Nav username="Will" />
-      <Nav username="Tyler" />
     </div>
 }
 

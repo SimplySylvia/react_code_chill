@@ -1,5 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   padding: 0;
-  background-color: rebeccapurple;
+  background-color: #0E0E0F;
 }
